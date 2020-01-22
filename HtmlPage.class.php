@@ -1,5 +1,12 @@
 <?php
 
+/**
+ * HtmlPage.class.php
+ *
+ * @author     Tim Biernoth
+ * @link       https://timbiernoth.de/
+ */
+
 class HtmlPage
 {
     private $configDomain = [
